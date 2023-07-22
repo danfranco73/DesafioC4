@@ -1,0 +1,29 @@
+[
+  {
+    "title": "Producto 2",
+    "description": "Descripcion 2",
+    "price": 200,
+    "thumbnail": "https://cdn3.iconfinder.com/data/icons/education-209/64/bus-vehicle-transport-school-128.png",
+    "code": "12345",
+    "stock": 20,
+    "id": 2
+  },
+  {
+    "title": "Producto 3",
+    "description": "Descripcion 3",
+    "price": 300,
+    "thumbnail": "https://cdn3.iconfinder.com/data/icons/education-209/64/bus-vehicle-transport-school-128.png",
+    "code": "123456",
+    "stock": 30,
+    "id": 3
+  },
+  {
+    "title": "Producto 4",
+    "description": "Descripcion 4",
+    "price": 400,
+    "thumbnail": "https://cdn3.iconfinder.com/data/icons/education-209/64/bus-vehicle-transport-school-128.png",
+    "code": "1234567",
+    "stock": 40,
+    "id": 4
+  }
+]

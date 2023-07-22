@@ -1,0 +1,72 @@
+[
+  {
+    "id": 1,
+    "name": "Aceite Cocinero Gir. x 900 cc",
+    "price": 400,
+    "thumbnail": "../thumbnailes/aceiteCocinero.png",
+    "stock": 500
+  },
+  {
+    "id": 2,
+    "name": "Harina Favorita x 1 kg",
+    "price": 150,
+    "thumbnail": "../thumbnailes/harinaFavorita.jpg",
+    "stock": 250
+  },
+  {
+    "id": 3,
+    "name": "Yerba Nobleza Gaucha x 1 kg",
+    "price": 440,
+    "thumbnail": "../thumbnailes/yerbaNG.jpg",
+    "stock": 650
+  },
+  {
+    "id": 4,
+    "name": "Bizcochuelo Exquisita x 450g",
+    "price": 272,
+    "thumbnail": "../thumbnailes/bizcochueloExq.jpg",
+    "stock": 410
+  },
+  {
+    "id": 5,
+    "name": "Fideo Matarazzo x 500g",
+    "price": 125,
+    "thumbnail": "../thumbnailes/fideoMatarazzo.jpg",
+    "stock": 410
+  },
+  {
+    "id": 6,
+    "name": "Arroz Gallo x 1kg",
+    "price": 245,
+    "thumbnail": "../thumbnailes/arrozGallo.jfif",
+    "stock": 350
+  },
+  {
+    "id": 7,
+    "name": "Arroz Gallo x 1kg",
+    "price": 245,
+    "thumbnail": "../thumbnailes/arrozGallo.jfif",
+    "stock": 350
+  },
+  {
+    "id": 8,
+    "name": "Arroz Lcchetti x 1kg",
+    "price": 245,
+    "thumbnail": "../thumbnailes/arrozGallo.jfif",
+    "stock": 350
+  },
+  {
+    "id": 9,
+    "name": "Arroz Maximo x 1kg",
+    "price": 245,
+    "thumbnail": "../thumbnailes/arrozGallo.jfif",
+    "stock": 350
+  },
+  {
+    "id": 10,
+    "name": "Arroz Letizia x 1kg",
+    "price": 245,
+    "thumbnail": "../thumbnailes/arrozGallo.jfif",
+    "stock": 350
+  }
+]
